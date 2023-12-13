@@ -7,3 +7,6 @@ The HaHa board, a custom-designed hardware platform, serves as an experimental d
 Developed by Prof. Swarup Bhunia in collaboration with students and partners at the Electrical and Computer Engineering Department of the University of Florida, the HaHa board facilitates hands-on exploration of hardware security concepts. The course, offered annually for the past five years, includes 19 experiments (including Experiment 0) tailored for the HaHa board.
 
 The unique aspect of this course is its adaptability to online learning, as it doesn't necessitate access to a physical lab. While most experiments can be conducted by connecting the HaHa board to a computer, a few, like Experiment 9, may require access to a USB Oscilloscope, such as Analog Discovery 2. Instructors can tailor the selection of experiments based on course duration and other considerations.
+
+
+I was not able to complete two of the Experiments that I set out to do (Experiment 5 and 7) due to errors that I was unable to solve or find work arounds to. 
